@@ -17,8 +17,8 @@
 
 ### 📫 Contact
 - Email: nguyentrang.200307@gmail.com
-- GitHub: https: //github.com/trangnguyen0458
-- My portfolio: https://trannguyen0458.github.io
+- GitHub: https: github.com/trangnguyen0458
+- My Portfolio: trannguyen0458.github.io
 
 
 
