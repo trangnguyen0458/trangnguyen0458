@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Trang Nguyen
+🎓 Major: Computer Science  
+📍 Location: Vietnam  
+💻 Interests: Programming, AI, Web Development 
 
-<!--
-**trangnguyen0458/trangnguyen0458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Skills
+- C/C++
+- Python
+- HTML, CSS
 
-Here are some ideas to get you started:
+### 📂 Projects
+- Student Management System (C++)
+- Personal Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Favorite Games
+- League of Legends – strategy and teamwork
+- Minecraft – creativity and problem-solving
+
+### 📫 Contact
+- Email: nguyentrang.200307@gmail.com
+- GitHub: https://github.com/trangnguyen0458
+
+
