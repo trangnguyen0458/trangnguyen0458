@@ -1,14 +1,14 @@
 ## 👋 Hi, I'm Trang Nguyen
-🎓 Major: Computer Science - University of Information Technology
+🎓 Major: Computer Science - University of Information Technology Viet Nam\
+
 💻 Interests: Programming, AI, Web Development 
 
 ### 🔧 Skills
-- C/C++
+- C++
 - Python
 - HTML, CSS
 
 ### 📂 Projects
-- Student Management System (C++)
 - Personal Website
 
 ### 🎮 Favorite Games
