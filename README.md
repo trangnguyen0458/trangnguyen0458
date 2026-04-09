@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Trang Nguyen
-🎓 Major: Computer Science - University of Information Technology Viet Nam\
+🎓 Major: Computer Science - University of Information Technology Viet Nam
 
 💻 Interests: Programming, AI, Web Development 
 
