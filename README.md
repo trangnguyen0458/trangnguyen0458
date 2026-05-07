@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Trang Nguyen
-🎓 Major: Computer Science - University of Information Technology Viet Nam
+🎓 Major: Computer Science - University of Information Technology at Viet Nam.
 
-💻 Interests: Programming, AI, Web Development 
+💻 Interests: Programming, Web Development, Games. 
 
 ### 🔧 Skills
 - C++
@@ -9,7 +9,7 @@
 - HTML, CSS
 
 ### 📂 Projects
-- Personal Website
+- Personal Website.
 
 ### 🎮 Favorite Games
 - League of Legends – strategy and teamwork
